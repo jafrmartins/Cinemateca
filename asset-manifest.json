@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "Cinemateca/static/css/main.0d295a78.css",
-    "main.js": "Cinemateca/static/js/main.f9e4b840.js",
-    "static/media/background.png": "Cinemateca/static/media/background.789ac87f654e27c27dc7.png",
-    "index.html": "Cinemateca/index.html",
-    "main.0d295a78.css.map": "Cinemateca/static/css/main.0d295a78.css.map",
-    "main.f9e4b840.js.map": "Cinemateca/static/js/main.f9e4b840.js.map"
+    "main.css": "./static/css/main.0d295a78.css",
+    "main.js": "./static/js/main.b8c9e8fd.js",
+    "static/media/background.png": "./static/media/background.789ac87f654e27c27dc7.png",
+    "index.html": "./index.html",
+    "main.0d295a78.css.map": "./static/css/main.0d295a78.css.map",
+    "main.b8c9e8fd.js.map": "./static/js/main.b8c9e8fd.js.map"
   },
   "entrypoints": [
     "static/css/main.0d295a78.css",
-    "static/js/main.f9e4b840.js"
+    "static/js/main.b8c9e8fd.js"
   ]
 }
